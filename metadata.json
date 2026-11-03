@@ -1,0 +1,8 @@
+{
+  "name": "ARNA GRAM UNNAYA FOUNDATION",
+  "description": "Native Android platform for ARNA GRAM UNNAYA FOUNDATION with secure Customer, Employee, and Admin portals, loan management, EMI collection, investments, wallet operations, statements, reports, and integration with the ARNA PHP REST API and MySQL backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

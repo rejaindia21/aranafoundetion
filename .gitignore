@@ -1,0 +1,181 @@
+# ============================================================
+# ARNA GRAM UNNAYA FOUNDATION
+# Android / Gradle Project
+# Git Ignore Configuration
+# ============================================================
+
+
+# ============================================================
+# Android Studio / IntelliJ IDEA
+# ============================================================
+
+*.iml
+
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml/
+.idea/workspace.xml/
+.idea/navEditor.xml/
+.idea/assetWizardSettings.xml/
+
+# Android Studio deployment / temporary files
+.idea/deploymentTargetDropDown.xml
+.idea/appInsights.xml
+
+
+# ============================================================
+# Gradle
+# ============================================================
+
+.gradle/
+build/
+**/build/
+
+
+# ============================================================
+# Kotlin
+# ============================================================
+
+.kotlin/
+
+
+# ============================================================
+# Local Android SDK Configuration
+# ============================================================
+
+local.properties
+/local.properties
+
+
+# ============================================================
+# Android Build / Native
+# ============================================================
+
+.externalNativeBuild/
+.cxx/
+
+
+# ============================================================
+# Android Captures
+# ============================================================
+
+captures/
+
+
+# ============================================================
+# macOS
+# ============================================================
+
+.DS_Store
+
+
+# ============================================================
+# Environment / Secrets
+# ============================================================
+
+.env
+.env.local
+.env.development
+.env.production
+
+*.env
+
+
+# ============================================================
+# Keystores / Signing Files
+# ============================================================
+
+debug.keystore
+
+*.jks
+*.keystore
+
+# Keep Gradle wrapper JAR if committed
+# Do NOT ignore gradle-wrapper.jar
+
+
+# ============================================================
+# Generated Android Files
+# ============================================================
+
+/app/release/
+/app/debug/
+/app/build/
+*/build/
+
+
+# ============================================================
+# Temporary / Generated Files
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+
+*.swp
+*.swo
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+
+# ============================================================
+# Crash / Profiling Files
+# ============================================================
+
+*.hprof
+
+
+# ============================================================
+# Fastlane
+# ============================================================
+
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots/**/*.png
+/fastlane/test_output
+
+
+# ============================================================
+# Firebase / Google Services
+# ============================================================
+
+# Ignore local Firebase configuration if it contains secrets.
+# If your project intentionally commits this file, remove the
+# next line.
+/app/google-services.json
+
+
+# ============================================================
+# Generated Room / Database Files
+# ============================================================
+
+/app/schemas/
+
+
+# ============================================================
+# Compose / UI Preview Generated Files
+# ============================================================
+
+/app/.cxx/
+
+
+# ============================================================
+# Node / Web tooling if used by project
+# ============================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# ============================================================
+# OS / IDE temporary files
+# ============================================================
+
+*.orig
+*.rej

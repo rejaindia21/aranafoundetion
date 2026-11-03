@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- ============================================================
+         ARNA GRAM UNNAYA FOUNDATION
+         ANDROID APPLICATION THEME
+         ============================================================ -->
+
+    <style
+        name="Theme.ARNAFoundation"
+        parent="android:style/Theme.Material.Light.NoActionBar">
+
+        <!-- Font -->
+        <item name="android:fontFamily">sans</item>
+
+        <!-- Action Bar -->
+        <item name="android:windowActionModeOverlay">true</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">#065F46</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Navigation Bar -->
+        <item name="android:navigationBarColor">#064E3B</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <!-- ARNA Primary Color -->
+        <item name="android:colorAccent">#198754</item>
+
+        <!-- Window Background -->
+        <item name="android:windowBackground">#F8FAFC</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- ============================================================
+         ARNA GRAM UNNAYA FOUNDATION
+         APPLICATION COLORS
+         ============================================================ -->
+
+    <!-- ARNA Primary Green -->
+    <color name="arna_green">#198754</color>
+
+    <!-- ARNA Dark Green -->
+    <color name="arna_dark_green">#065F46</color>
+
+    <!-- ARNA Deep Green -->
+    <color name="arna_deep_green">#064E3B</color>
+
+    <!-- ARNA Secondary Green -->
+    <color name="arna_secondary_green">#047857</color>
+
+    <!-- ARNA Teal -->
+    <color name="arna_teal">#0D9488</color>
+
+    <!-- Light Green -->
+    <color name="arna_light_green">#D1FAE5</color>
+
+    <!-- Very Light Green -->
+    <color name="arna_soft_green">#ECFDF5</color>
+
+    <!-- Background -->
+    <color name="arna_background">#F8FAFC</color>
+
+    <!-- Surface -->
+    <color name="arna_surface">#FFFFFF</color>
+
+    <!-- Card Background -->
+    <color name="arna_card">#FFFFFF</color>
+
+    <!-- Primary Text -->
+    <color name="arna_text_primary">#111827</color>
+
+    <!-- Secondary Text -->
+    <color name="arna_text_secondary">#6B7280</color>
+
+    <!-- Border -->
+    <color name="arna_border">#E5E7EB</color>
+
+    <!-- Black -->
+    <color name="black">#FF000000</color>
+
+    <!-- White -->
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Success -->
+    <color name="success">#198754</color>
+
+    <!-- Warning -->
+    <color name="warning">#F59E0B</color>
+
+    <!-- Error -->
+    <color name="error">#DC2626</color>
+
+    <!-- Info -->
+    <color name="info">#0D9488</color>
+
+</resources>
